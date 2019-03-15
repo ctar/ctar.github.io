@@ -28,7 +28,26 @@ plt.show()
 </code></pre>
 
 <p>A <a href="http://www.google.com">good article</a> on neural nets</p>
+      
+<script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@1.0.0"></script>
+<script src="https://cdn.jsdelivr.net/npm/@tensorflow-models/universal-sentence-encoder"></script>
 
+<script>
+// Load the model.
+use.load().then(model => {
+  // Embed an array of sentences.
+  const sentences = [
+    'Hello.',
+    'How are you?'
+  ];
+  model.embed(sentences).then(embeddings => {
+    // `embeddings` is a 2D tensor consisting of the 512-dimensional embeddings for each sentence.
+    // So in this example `embeddings` has the shape [2, 512].
+    embeddings.print(true /* verbose */);
+  });
+});
+      </script>
+  
 <h3>
 <a id="designer-templates" class="anchor" href="#designer-templates" aria-hidden="true"><span class="octicon octicon-link"></span></a>Designer Templates</h3>
 
