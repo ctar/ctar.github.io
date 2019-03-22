@@ -2,14 +2,14 @@
 <html>
 <body>
 
-<h2>My First Web Page</h2>
-<p>My First Paragraph.</p>
+<h2>Loading Model...</h2>
+
 
 <p id="demo"></p>
 
-<script>
-document.getElementById("demo").innerHTML = 5 + 6;
-</script>
+#<script>
+#document.getElementById("demo").innerHTML = 5 + 6;
+#</script>
 
 <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@1.0.0"></script>
 <script src="https://cdn.jsdelivr.net/npm/@tensorflow-models/universal-sentence-encoder"></script>
@@ -26,7 +26,9 @@ use.load().then(model => {
     // `embeddings` is a 2D tensor consisting of the 512-dimensional embeddings for each sentence.
     // So in this example `embeddings` has the shape [2, 512].
     embeddings.print(true /* verbose */);
+    document.write("Results for:\n")
     document.write(sentences);
+    document.write("\n");
     document.write(embeddings);
   });
 });
