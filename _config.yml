@@ -21,7 +21,7 @@
 title: LLM tools & resources
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-Some notes and references to LLM resources & projects
+  Some notes and references to LLM resources & projects
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ctar
