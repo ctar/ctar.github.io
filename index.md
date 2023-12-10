@@ -9,6 +9,11 @@ It's much easier to find my bookmarks if they're simply online...
 [Awesome RLHF](https://github.com/opendilab/awesome-RLHF)  
 RLHF library with great list of resources and diagrams
 
+# RAG
+
+Cohere [How to Build a RAG-Powered Chatbot with Chat, Embed, and Rerank](https://txt.cohere.com/rag-chatbot/)
+[LLMWare](https://github.com/llmware-ai/llmware) Github
+
 # Python Notebooks resources
 
 [Jupyter Notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks)
@@ -28,10 +33,40 @@ Good explainer of Perplexity, Entropy & Cross-entropy
 [White Box Transformers via Sparse Rate Reduction](https://ma-lab-berkeley.github.io/CRATE/)
 What is the limit of simplifying the Transformer architecture to it's fundamental activity
 
+## News
+
+## Companies
+
+[Pinecone.io](http://www.pinecone.io)  
+Vector database
+
+## LLM Web Interfaces & Apps
+
+[Bard](http://bard.google.com)
+[ChatGPT](https://chat.openai.com/)
+[Perplexity.AI](https://www.perplexity.ai/)
+Anthropic [Claude.ai](https://claude.ai/)
+Huggingface [Zephyr 7B Beta Chat](https://huggingface.co/spaces/HuggingFaceH4/zephyr-chat)
+
+## OSS LLMs
+
+## Local LLMs
+
+[r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/)
+
 ## Misc
 
 [David Ha Blog Post](https://blog.otoro.net/2022/10/01/collectiveintelligence/) on 'Collective Intelligence for Deep 
 Learning'
+
+[Artificial General Intelligence Is Already Here](https://www.noemamag.com/artificial-general-intelligence-is-already-here/)  
+Blaise AGÜera y Arcas & Peter Norvig article
+
+[Prompt Engineering for Arithmetic Reasoning Problems](https://towardsdatascience.com/prompt-engineering-for-arithmetic-reasoning-problems-28c8bcd5bf0e)
+
+## Workflow tools
+
+[Coda.io](http://codea.io) covered in this [FastCompany article](https://www.fastcompany.com/90987245/coda-most-underrated-productivity-tool-of-2023)
 
 ## Githubpages resources
 
