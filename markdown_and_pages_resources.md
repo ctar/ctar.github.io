@@ -2,6 +2,8 @@
 layout: default
 ---
 
+Decent third party [Github Pages](https://kinsta.com/blog/github-pages/) documentation, beyond Jekyll. Primarily showing a Bootstrap example
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
@@ -100,7 +102,7 @@ end
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Branching](https://docs.github.com/assets/cb-23923/mw-1440/images/help/repository/branching.webp)
 
 
 ### Definition lists can be used with HTML syntax.

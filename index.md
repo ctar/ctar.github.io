@@ -8,5 +8,5 @@ layout: default
 
 [Dec 1, 2022](./another-page1.html).
 
-[Nov 1, 2022](./another-page2.html).
+[Markdown and GithubPages Resources](./markdown_and_pages_resources.html).
 
