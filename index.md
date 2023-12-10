@@ -11,7 +11,9 @@ RLHF library with great list of resources and diagrams
 
 # Python Notebooks resources
 
-[Jupyter Notebooks for book 'Deep Learning with Python'](https://github.com/fchollet/deep-learning-with-python-notebooks)
+[Jupyter Notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks)
+for the book ['Deep Learning with 
+Python'](https://www.amazon.com/Learning-Python-Second-Fran%C3%A7ois-Chollet/dp/1617296864/)
 
 [Jupyter AI](https://github.com/jupyterlab/jupyter-ai)  
 How use generative coding models directly in Jupyter notebooks
