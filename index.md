@@ -18,6 +18,11 @@ Python'](https://www.amazon.com/Learning-Python-Second-Fran%C3%A7ois-Chollet/dp/
 [Jupyter AI](https://github.com/jupyterlab/jupyter-ai)  
 How use generative coding models directly in Jupyter notebooks
 
+## Misc
+
+[David Ha Blog Post](https://blog.otoro.net/2022/10/01/collectiveintelligence/) on 'Collective Intelligence for Deep 
+Learning'
+
 ## Githubpages resources
 
 [Markdown and GithubPages Resources](./markdown_and_pages_resources.html).
