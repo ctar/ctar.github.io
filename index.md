@@ -103,8 +103,7 @@ Huggingface [Welcome Mixtral - a SOTA Mixture of Experts on Hugging Face](https:
 
 ## Startups
 
-[Carbon](http://carbon.ai), a Seattle startup that helps companies connect external data sources  
-[Seattle startup Carbon raises $1.3M to help developers manage external data for LLMs](https://www.geekwire.com/2023/seattle-startup-carbon-raises-1-3m-to-help-developers-manage-external-data-for-llms/)
+[Carbon](http://carbon.ai), a Seattle startup that helps companies connect external data sources [news](https://www.geekwire.com/2023/seattle-startup-carbon-raises-1-3m-to-help-developers-manage-external-data-for-llms/)
 
 ## Workflow tools
 
