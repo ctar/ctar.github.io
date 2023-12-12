@@ -4,15 +4,19 @@ layout: default
 
 It's much easier to find my bookmarks if they're simply online...
 
-# RLHF
+# RL & RLHF
 
 [Awesome RLHF](https://github.com/opendilab/awesome-RLHF)  
 RLHF library with great list of resources and diagrams
+
+[Convenient Reinforcement Learning With Stable-Baselines3](https://towardsdatascience.com/convenient-reinforcement-learning-with-stable-baselines3-dccf466b7585)
 
 # RAG
 
 Cohere [How to Build a RAG-Powered Chatbot with Chat, Embed, and Rerank](https://txt.cohere.com/rag-chatbot/)
 [LLMWare](https://github.com/llmware-ai/llmware) Github
+
+YT [Vector Search RAG Tutorial – Combine Your Data with LLMs with Advanced Search](https://www.youtube.com/watch?v=JEBDfGqrAUA)
 
 # Python Notebooks resources
 
@@ -28,14 +32,22 @@ How use generative coding models directly in Jupyter notebooks
 [Perplexity of Language Models](https://medium.com/@priyankads/perplexity-of-language-models-41160427ed72)  
 Good explainer of Perplexity, Entropy & Cross-entropy
 
+[Andrej Karpathy LLM Paper Reading List for LLM Mastery](https://pub.towardsai.net/andrej-karpathy-llm-paper-reading-list-for-llm-mastery-89e751ad0cc1)
+
 ## Papers
 
 [White Box Transformers via Sparse Rate Reduction](https://ma-lab-berkeley.github.io/CRATE/)
 What is the limit of simplifying the Transformer architecture to it's fundamental activity
 
-## News
+## News & Market Analysis
 
-## Companies
+NYT [Mistral, French A.I. Start-Up, Is Valued at $2 Billion in Funding Round](https://www.nytimes.com/2023/12/10/technology/mistral-ai-funding.html)
+
+TC [System of intelligence — generative AI at the app layer](https://techcrunch.com/2023/12/09/system-of-intelligence-generative-ai-at-the-app-layer/)
+
+CNBC [There are three job paths in AI era, and one ensures failure, says Alphabet board member](https://www.cnbc.com/2023/12/10/there-are-3-job-paths-in-ai-era-one-means-failure-alphabet-director.html)
+
+## Companies, Startups
 
 [Pinecone.io](http://www.pinecone.io)  
 Vector database
@@ -48,11 +60,30 @@ Vector database
 Anthropic [Claude.ai](https://claude.ai/)
 Huggingface [Zephyr 7B Beta Chat](https://huggingface.co/spaces/HuggingFaceH4/zephyr-chat)
 
+## Prompt engineering
+
+[Anthropic Research Tells that You can Increase LLMs Recall Capacity by 70% with a Single Addition to Your Prompt: Unleashing the Power of Claude 2.1 through Strategic Prompting](https://www.marktechpost.com/2023/12/09/recent-anthropic-research-tells-that-you-can-increase-llms-recall-capacity-by-70-with-a-single-addition-to-your-prompt-unleashing-the-power-of-claude-2-1-through-strategic-prompting/)
+
+[Mastering Prompt Management](https://dev.to/tanyarai/mastering-prompt-management-fbn)
+
+## Fine tuning
+
 ## OSS LLMs
 
 ## Local LLMs
 
 [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/)
+
+## Applied
+
+[Five Stages Of LLM Implementation](https://cobusgreyling.medium.com/five-stages-of-llm-implementation-a3c1ed861830)
+
+[WordPress Starter Templates AI – Build A Site In 60 Seconds](https://www.searchenginejournal.com/wordpress-starter-templates-ai-build-a-site-in-60-seconds/503624/)  
+Astra Starter Templates 3.5.2 integrates ZipWP AI Website Builder that claims to be able to create an entire site in 60 seconds
+
+[LLMs for Everyone: Running LangChain and a MistralAI 7B Model in Google Colab](https://towardsdatascience.com/llms-for-everyone-running-langchain-and-a-mistralai-7b-model-in-google-colab-246ca94d7c4d)
+
+Intel paid piece in VB [A developer’s guide to getting started with generative AI: A use case-specific approach](https://venturebeat.com/ai/a-developerss-guide-to-getting-started-with-generative-ai-a-use-case-specific-approach/)
 
 ## Misc
 
@@ -63,6 +94,17 @@ Learning'
 Blaise AGÜera y Arcas & Peter Norvig article
 
 [Prompt Engineering for Arithmetic Reasoning Problems](https://towardsdatascience.com/prompt-engineering-for-arithmetic-reasoning-problems-28c8bcd5bf0e)
+
+Huggingface [Mixture of Experts Explained](https://huggingface.co/blog/moe)
+
+[AI can predict intimate partner femicide from variables extracted from legal documents](https://www.psypost.org/2023/12/ai-can-predict-intimate-partner-femicide-from-variables-extracted-from-legal-documents-214914)
+
+Huggingface [Welcome Mixtral - a SOTA Mixture of Experts on Hugging Face](https://huggingface.co/blog/mixtral)
+
+## Startups
+
+[Carbon](http://carbon.ai), a Seattle startup that helps companies connect external data sources  
+[Seattle startup Carbon raises $1.3M to help developers manage external data for LLMs](https://www.geekwire.com/2023/seattle-startup-carbon-raises-1-3m-to-help-developers-manage-external-data-for-llms/)
 
 ## Workflow tools
 
