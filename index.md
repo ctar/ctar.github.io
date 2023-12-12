@@ -55,11 +55,11 @@ Vector database
 
 ## LLM Web Interfaces & Apps
 
-[Bard](http://bard.google.com)
-[ChatGPT](https://chat.openai.com/)
-[Perplexity.AI](https://www.perplexity.ai/)
-Anthropic [Claude.ai](https://claude.ai/)
-Huggingface [Zephyr 7B Beta Chat](https://huggingface.co/spaces/HuggingFaceH4/zephyr-chat)
+[Bard](http://bard.google.com)  
+[ChatGPT](https://chat.openai.com/)  
+[Perplexity.AI](https://www.perplexity.ai/)  
+Anthropic [Claude.ai](https://claude.ai/)  
+Huggingface [Zephyr 7B Beta Chat](https://huggingface.co/spaces/HuggingFaceH4/zephyr-chat)  
 
 ## Prompt engineering
 
