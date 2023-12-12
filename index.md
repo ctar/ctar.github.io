@@ -14,6 +14,7 @@ RLHF library with great list of resources and diagrams
 # RAG
 
 Cohere [How to Build a RAG-Powered Chatbot with Chat, Embed, and Rerank](https://txt.cohere.com/rag-chatbot/)
+
 [LLMWare](https://github.com/llmware-ai/llmware) Github
 
 YT [Vector Search RAG Tutorial – Combine Your Data with LLMs with Advanced Search](https://www.youtube.com/watch?v=JEBDfGqrAUA)
