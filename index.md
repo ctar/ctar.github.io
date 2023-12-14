@@ -60,6 +60,7 @@ Vector database
 [Perplexity.AI](https://www.perplexity.ai/)  
 Anthropic [Claude.ai](https://claude.ai/)  
 Huggingface [Zephyr 7B Beta Chat](https://huggingface.co/spaces/HuggingFaceH4/zephyr-chat)  
+[LlamaIndex + Gemini](https://blog.llamaindex.ai/llamaindex-gemini-8d7c3b9ea97e)
 
 ## Prompt engineering
 
