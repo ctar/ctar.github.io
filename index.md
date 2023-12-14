@@ -11,13 +11,17 @@ RLHF library with great list of resources and diagrams
 
 [Convenient Reinforcement Learning With Stable-Baselines3](https://towardsdatascience.com/convenient-reinforcement-learning-with-stable-baselines3-dccf466b7585)
 
-# RAG
+# RAG & Retrieval
 
 Cohere [How to Build a RAG-Powered Chatbot with Chat, Embed, and Rerank](https://txt.cohere.com/rag-chatbot/)
 
 [LLMWare](https://github.com/llmware-ai/llmware) Github
 
 YT [Vector Search RAG Tutorial – Combine Your Data with LLMs with Advanced Search](https://www.youtube.com/watch?v=JEBDfGqrAUA)
+
+[Gemini Semantic Retrieval](https://ai.google.dev/docs/semantic_retriever)
+
+[Gemini Document Search](https://ai.google.dev/examples/doc_search_emb#api_changes_to_embeddings_with_model_embedding-001)
 
 # Python Notebooks resources
 
@@ -86,6 +90,10 @@ Astra Starter Templates 3.5.2 integrates ZipWP AI Website Builder that claims to
 [LLMs for Everyone: Running LangChain and a MistralAI 7B Model in Google Colab](https://towardsdatascience.com/llms-for-everyone-running-langchain-and-a-mistralai-7b-model-in-google-colab-246ca94d7c4d)
 
 Intel paid piece in VB [A developer’s guide to getting started with generative AI: A use case-specific approach](https://venturebeat.com/ai/a-developerss-guide-to-getting-started-with-generative-ai-a-use-case-specific-approach/)
+
+## Analytics tools & examples
+
+[ChatGPT Data Analysis](https://chat.openai.com/g/g-HMNcP6w7d-data-analysis)
 
 ## Misc
 
