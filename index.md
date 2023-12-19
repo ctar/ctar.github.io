@@ -29,6 +29,8 @@ YT [Vector Search RAG Tutorial – Combine Your Data with LLMs with Advanced Sea
 
 TDS [Evaluating RAG Applications with RAGAs](https://towardsdatascience.com/evaluating-rag-applications-with-ragas-81d67b0ee31a)
 
+ColBERT author [A🧵on late interaction, how it works efficiently, and why/where it's been shown to improve quality](https://x.com/lateinteraction/status/1736804963760976092?s=20)
+
 # Python Notebooks resources
 
 [Jupyter Notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks)
@@ -38,12 +40,20 @@ Python'](https://www.amazon.com/Learning-Python-Second-Fran%C3%A7ois-Chollet/dp/
 [Jupyter AI](https://github.com/jupyterlab/jupyter-ai)  
 How use generative coding models directly in Jupyter notebooks
 
+## Jupyter & Colab Notebooks
+
+[Following up on the Gemini API launch, a notebook to help you compare Gemini and ChatGPT API responses with diff view! ](https://x.com/GoogleColab/status/1736904614015037651?s=20)
+
 ## Howtos and explainer (blogs and videos)
 
 [Perplexity of Language Models](https://medium.com/@priyankads/perplexity-of-language-models-41160427ed72)  
 Good explainer of Perplexity, Entropy & Cross-entropy
 
 [Andrej Karpathy LLM Paper Reading List for LLM Mastery](https://pub.towardsai.net/andrej-karpathy-llm-paper-reading-list-for-llm-mastery-89e751ad0cc1)
+
+## LLM Training
+
+[The Novice's LLM Training Guide Written by Alpin](https://rentry.org/llm-training)
 
 ## Papers
 
@@ -81,10 +91,11 @@ Vector database
 
 ## AI Website Builders, scrapers
 
-[
-Starter Templates 3.5.2 : All new AI based Template Kit library](https://wpastra.com/changelog/version-3-5-2/)
+[Starter Templates 3.5.2 : All new AI based Template Kit library](https://wpastra.com/changelog/version-3-5-2/)
 
 [AI Revolution for website creation. Simply describe your idea, and watch as a WordPress website is built before your eyes.](https://zipwp.com/)
+
+[the holy grail of web scraping: a universal web scraper, built with GPT-4 + Vision + Headless Chrome](https://twitter.com/itstimconnors/status/1736821319080226817) & [Building a Universal AI Scraper](https://timconnors.co/posts/ai-scraper)
 
 ## LLM Web Interfaces & Apps
 
@@ -103,13 +114,19 @@ Huggingface [Zephyr 7B Beta Chat](https://huggingface.co/spaces/HuggingFaceH4/ze
 
 [How to Improve Your ChatGPT Outputs Using Configuration Parameters](https://towardsdatascience.com/how-to-improve-your-chatgpt-outputs-using-configuration-parameters-0eebd575646e)
 
+[OpenAI official Prompt engineering guide](https://platform.openai.com/docs/guides/prompt-engineering)
+
 ## Fine tuning
 
 TDS [Fine-Tune Your Own Open-Source LLM Using the Latest Techniques](https://towardsdatascience.com/how-to-efficiently-fine-tune-your-own-open-source-llm-using-novel-techniques-code-provided-03a4e67d1b48)
 
+[an overview of all (or at least most) of the LORA techniques that are out there…](https://x.com/cwolferesearch/status/1736795049579491751?s=20)
+
 ## OSS LLMs
 
 HF Papers [LLM360: Towards Fully Transparent Open-Source LLMs](https://huggingface.co/papers/2312.06550)
+
+[The List of 11 Most Popular Open Source LLMs of 2023](https://www.lakera.ai/blog/open-source-llms)
 
 ## Local LLMs
 
@@ -160,6 +177,19 @@ Huggingface [Welcome Mixtral - a SOTA Mixture of Experts on Hugging Face](https:
 
 [16, 8, and 4-bit Floating Point Formats — How Does it Work?](https://towardsdatascience.com/16-8-and-4-bit-floating-point-formats-how-does-it-work-d157a31ef2ef)
 
+## Anomaly Detection
+
+[PyOD, a versatile Python library for detecting anomalies in multivariate data](https://pyod.readthedocs.io/en/latest/)
+[TODS: Automated Time-series Outlier Detection System](https://github.com/datamllab/tods)
+[Python library for graph outlier detection](https://github.com/pygod-team/pygod/)
+[ADBench: Anomaly Detection Benchmark](https://www.andrew.cmu.edu/user/yuezhao2/papers/22-neurips-adbench.pdf)
+[LogBERT: Log Anomaly Detection via BERT](https://arxiv.org/abs/2103.04475)
+[Log Analytics Powered by AI](LOGPAI), [LOGPAI.com](https://logpai.com/)
+
+## Data tools
+
+[Dataflow Prime serverless data processing platform for Apache Beam pipelines](https://cloud.google.com/dataflow/docs/guides/enable-dataflow-prime)
+
 ## ML / DS Explainers
 
 [F1, Recall, Precision, and ROC Curves](https://towardsdatascience.com/courage-to-learn-ml-a-deeper-dive-into-f1-recall-precision-and-roc-curves-d5c0a46e5eb7)
@@ -172,9 +202,18 @@ Huggingface [Welcome Mixtral - a SOTA Mixture of Experts on Hugging Face](https:
 
 [Coda.io](http://codea.io) covered in this [FastCompany article](https://www.fastcompany.com/90987245/coda-most-underrated-productivity-tool-of-2023)
 
-## Japan
+## Japan LLMs, AI & Startup
+
+Nature [Why Japan is building its own version of ChatGPT](https://www.nature.com/articles/d41586-023-02868-z)
+[The Rakuda Ranking of Japanese AI](https://yuzuai.jp/benchmark)
+
+## Japan misc
 
 [Half of young employees hired during pandemic want to quit: Japan firm survey](https://mainichi.jp/english/articles/20231212/p2a/00m/0bu/011000c)
+
+## Watershed moment tech articles
+
+[Censorship, Surveillance and Profits: A Hard Bargain for Apple in China](https://www.nytimes.com/2021/05/17/technology/apple-china-censorship-data.html)
 
 ## Githubpages resources
 
