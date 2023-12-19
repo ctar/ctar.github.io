@@ -9,9 +9,13 @@ It's much easier to find my bookmarks if they're simply online...
 [Awesome RLHF](https://github.com/opendilab/awesome-RLHF)  
 RLHF library with great list of resources and diagrams
 
+TDS [Develop Your First AI Agent: Deep Q-Learning](https://towardsdatascience.com/develop-your-first-ai-agent-deep-q-learning-375876ee2472)
+
 [Convenient Reinforcement Learning With Stable-Baselines3](https://towardsdatascience.com/convenient-reinforcement-learning-with-stable-baselines3-dccf466b7585)
 
-# RAG & Retrieval
+Github: Meta project [Pearl - A Production-ready Reinforcement Learning AI Agent Library](https://github.com/facebookresearch/Pearl)
+
+# RAG, Retrieval, Embeddings, VectorDBs
 
 Cohere [How to Build a RAG-Powered Chatbot with Chat, Embed, and Rerank](https://txt.cohere.com/rag-chatbot/)
 
@@ -22,6 +26,8 @@ YT [Vector Search RAG Tutorial – Combine Your Data with LLMs with Advanced Sea
 [Gemini Semantic Retrieval](https://ai.google.dev/docs/semantic_retriever)
 
 [Gemini Document Search](https://ai.google.dev/examples/doc_search_emb#api_changes_to_embeddings_with_model_embedding-001)
+
+TDS [Evaluating RAG Applications with RAGAs](https://towardsdatascience.com/evaluating-rag-applications-with-ragas-81d67b0ee31a)
 
 # Python Notebooks resources
 
@@ -52,10 +58,33 @@ TC [System of intelligence — generative AI at the app layer](https://techcrunc
 
 CNBC [There are three job paths in AI era, and one ensures failure, says Alphabet board member](https://www.cnbc.com/2023/12/10/there-are-3-job-paths-in-ai-era-one-means-failure-alphabet-director.html)
 
+[Meta....gave up on GPU and CPU to take a RISC-y route for AI training and inference acceleration
+News
+](https://www.techradar.com/pro/meta-has-done-something-that-will-get-nvidia-and-amd-very-very-worried-it-gave-up-on-gpu-and-cpu-to-take-a-risc-y-route-for-ai-training-and-inference-acceleration)
+
+TC [When it comes to generative AI in the enterprise, CIOs are taking it slow](https://techcrunch.com/2023/12/15/when-it-comes-to-generative-ai-in-the-enterprise-cios-are-taking-it-slow/)
+
+The Atlantic [THE RISE AND FALL OF THE ‘IBM WAY’](https://www.theatlantic.com/magazine/archive/2024/01/ibm-greatest-capitalist-tom-watson/676147/)
+
+on Glean [Startup Founded by Ex-Google Search Team Nears $2 Billion Valuation](https://www.reddit.com/r/singularity/comments/18jv4ue/startup_founded_by_exgoogle_search_team_nears_2/)
+
+BCG blog [Turning GenAI Magic into Business Impact](https://www.bcg.com/publications/2023/maximizing-the-potential-of-generative-ai)
+
+## Alternative approaches
+
+Apple Research [DeepPCR: Parallelizing Sequential Operations in Neural Networks](https://machinelearning.apple.com/research/deeppcr)
+
 ## Companies, Startups
 
 [Pinecone.io](http://www.pinecone.io)  
 Vector database
+
+## AI Website Builders, scrapers
+
+[
+Starter Templates 3.5.2 : All new AI based Template Kit library](https://wpastra.com/changelog/version-3-5-2/)
+
+[AI Revolution for website creation. Simply describe your idea, and watch as a WordPress website is built before your eyes.](https://zipwp.com/)
 
 ## LLM Web Interfaces & Apps
 
@@ -72,13 +101,22 @@ Huggingface [Zephyr 7B Beta Chat](https://huggingface.co/spaces/HuggingFaceH4/ze
 
 [Mastering Prompt Management](https://dev.to/tanyarai/mastering-prompt-management-fbn)
 
+[How to Improve Your ChatGPT Outputs Using Configuration Parameters](https://towardsdatascience.com/how-to-improve-your-chatgpt-outputs-using-configuration-parameters-0eebd575646e)
+
 ## Fine tuning
 
+TDS [Fine-Tune Your Own Open-Source LLM Using the Latest Techniques](https://towardsdatascience.com/how-to-efficiently-fine-tune-your-own-open-source-llm-using-novel-techniques-code-provided-03a4e67d1b48)
+
 ## OSS LLMs
+
+HF Papers [LLM360: Towards Fully Transparent Open-Source LLMs](https://huggingface.co/papers/2312.06550)
 
 ## Local LLMs
 
 [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/)
+[MLX vs MPS vs CUDA: a Benchmark](https://towardsdatascience.com/mlx-vs-mps-vs-cuda-a-benchmark-c5737ca6efc9)
+
+justine.lol [Bash One-Liners for LLMs](https://justine.lol/oneliners/)
 
 ## Applied
 
@@ -90,6 +128,8 @@ Astra Starter Templates 3.5.2 integrates ZipWP AI Website Builder that claims to
 [LLMs for Everyone: Running LangChain and a MistralAI 7B Model in Google Colab](https://towardsdatascience.com/llms-for-everyone-running-langchain-and-a-mistralai-7b-model-in-google-colab-246ca94d7c4d)
 
 Intel paid piece in VB [A developer’s guide to getting started with generative AI: A use case-specific approach](https://venturebeat.com/ai/a-developerss-guide-to-getting-started-with-generative-ai-a-use-case-specific-approach/)
+
+Nature [A rule-free workflow for the automated generation of databases from scientific literature](https://www.nature.com/articles/s41524-023-01171-9)
 
 ## Analytics tools & examples
 
@@ -111,6 +151,19 @@ Huggingface [Mixture of Experts Explained](https://huggingface.co/blog/moe)
 
 Huggingface [Welcome Mixtral - a SOTA Mixture of Experts on Hugging Face](https://huggingface.co/blog/mixtral)
 
+[Mixtral-8x7B: Understanding and Running the Sparse Mixture of Experts](https://towardsdatascience.com/mixtral-8x7b-understanding-and-running-the-sparse-mixture-of-experts-0e3fc7fde818)
+
+[A Comprehensive Survey of Large Language Models (LLMs)](https://cobusgreyling.medium.com/a-comprehensive-survey-of-large-language-models-llms-946a30d9288e)
+
+[The Kanerva Machine: A Generative Distributed Memory
+](https://arxiv.org/abs/1804.01756)
+
+[16, 8, and 4-bit Floating Point Formats — How Does it Work?](https://towardsdatascience.com/16-8-and-4-bit-floating-point-formats-how-does-it-work-d157a31ef2ef)
+
+## ML / DS Explainers
+
+[F1, Recall, Precision, and ROC Curves](https://towardsdatascience.com/courage-to-learn-ml-a-deeper-dive-into-f1-recall-precision-and-roc-curves-d5c0a46e5eb7)
+
 ## Startups
 
 [Carbon](http://carbon.ai), a Seattle startup that helps companies connect external data sources [news](https://www.geekwire.com/2023/seattle-startup-carbon-raises-1-3m-to-help-developers-manage-external-data-for-llms/)
@@ -118,6 +171,10 @@ Huggingface [Welcome Mixtral - a SOTA Mixture of Experts on Hugging Face](https:
 ## Workflow tools
 
 [Coda.io](http://codea.io) covered in this [FastCompany article](https://www.fastcompany.com/90987245/coda-most-underrated-productivity-tool-of-2023)
+
+## Japan
+
+[Half of young employees hired during pandemic want to quit: Japan firm survey](https://mainichi.jp/english/articles/20231212/p2a/00m/0bu/011000c)
 
 ## Githubpages resources
 
