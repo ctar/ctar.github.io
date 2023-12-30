@@ -105,6 +105,11 @@ Vector database
 Anthropic [Claude.ai](https://claude.ai/)  
 Huggingface [Zephyr 7B Beta Chat](https://huggingface.co/spaces/HuggingFaceH4/zephyr-chat)  
 [LlamaIndex + Gemini](https://blog.llamaindex.ai/llamaindex-gemini-8d7c3b9ea97e)
+[TensorOps LLMstudio](https://github.com/TensorOpsAI/LLMstudio)
+
+## ML Ops and hosted Platforms
+
+## Learning / Training platforms
 
 ## Prompt engineering
 
@@ -134,6 +139,8 @@ HF Papers [LLM360: Towards Fully Transparent Open-Source LLMs](https://huggingfa
 [MLX vs MPS vs CUDA: a Benchmark](https://towardsdatascience.com/mlx-vs-mps-vs-cuda-a-benchmark-c5737ca6efc9)
 
 justine.lol [Bash One-Liners for LLMs](https://justine.lol/oneliners/)
+
+[OLlama](https://github.com/jmorganca/ollama)
 
 ## Applied
 
