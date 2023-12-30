@@ -140,6 +140,8 @@ HF Papers [LLM360: Towards Fully Transparent Open-Source LLMs](https://huggingfa
 
 justine.lol [Bash One-Liners for LLMs](https://justine.lol/oneliners/)
 
+[LM Studio](https://lmstudio.ai/) local LLMs GUI   
+
 [OLlama](https://github.com/jmorganca/ollama)
 
 ## Applied
