@@ -57,7 +57,7 @@ Good explainer of Perplexity, Entropy & Cross-entropy
 
 ## LLM evals
 
-[LLM Needle In a Haystack RAG eval](https://github.com/Arize-ai/LLMTest_NeedleInAHaystack) [thread](https://twitter.com/aparnadhinak/status/1744771295940669689)
+[LLM Needle In a Haystack RAG eval](https://github.com/Arize-ai/LLMTest_NeedleInAHaystack) : [thread](https://twitter.com/aparnadhinak/status/1744771295940669689)
 
 ## Papers
 
@@ -116,6 +116,10 @@ Huggingface [Zephyr 7B Beta Chat](https://huggingface.co/spaces/HuggingFaceH4/ze
 
 [Deploying LLM Apps to AWS, the Open-Source Self-Service Way](https://towardsdatascience.com/deploying-llm-apps-to-aws-the-open-source-self-service-way-c54b8667d829)
 
+[Model Memory Calculator](https://huggingface.co/spaces/hf-accelerate/model-memory-usage)
+
+[🧐 LLM AutoEval in Colab](https://github.com/mlabonne/llm-autoeval?tab=readme-ov-file) : [results](https://huggingface.co/spaces/mlabonne/Yet_Another_LLM_Leaderboard)
+
 ## Learning / Training platforms
 
 ## Prompt engineering
@@ -135,6 +139,8 @@ TDS [Fine-Tune Your Own Open-Source LLM Using the Latest Techniques](https://tow
 [an overview of all (or at least most) of the LORA techniques that are out there…](https://x.com/cwolferesearch/status/1736795049579491751?s=20)
 
 [A simple guide to local LLM fine-tuning on a Mac with MLX](https://apeatling.com/articles/simple-guide-to-local-llm-fine-tuning-on-a-mac-with-mlx/)
+
+[Fine-Tuning with LoRA or QLoRA on Mac w/ Llama/Mistral](https://github.com/ml-explore/mlx-examples/tree/main/lora) : [thread](https://x.com/reach_vb/status/1745016974311121028?s=20)
 
 ## OSS LLMs
 
