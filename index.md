@@ -55,10 +55,15 @@ Good explainer of Perplexity, Entropy & Cross-entropy
 
 [The Novice's LLM Training Guide Written by Alpin](https://rentry.org/llm-training)
 
+## LLM evals
+
+[LLM Needle In a Haystack RAG eval](https://github.com/Arize-ai/LLMTest_NeedleInAHaystack) [thread](https://twitter.com/aparnadhinak/status/1744771295940669689)
+
 ## Papers
 
 [White Box Transformers via Sparse Rate Reduction](https://ma-lab-berkeley.github.io/CRATE/)
 What is the limit of simplifying the Transformer architecture to it's fundamental activity
+[DocLLM: A layout-aware generative language model for multimodal document understanding](https://arxiv.org/abs/2401.00908)
 
 ## News & Market Analysis
 
@@ -109,6 +114,8 @@ Huggingface [Zephyr 7B Beta Chat](https://huggingface.co/spaces/HuggingFaceH4/ze
 
 ## ML Ops and hosted Platforms
 
+[Deploying LLM Apps to AWS, the Open-Source Self-Service Way](https://towardsdatascience.com/deploying-llm-apps-to-aws-the-open-source-self-service-way-c54b8667d829)
+
 ## Learning / Training platforms
 
 ## Prompt engineering
@@ -126,6 +133,8 @@ Huggingface [Zephyr 7B Beta Chat](https://huggingface.co/spaces/HuggingFaceH4/ze
 TDS [Fine-Tune Your Own Open-Source LLM Using the Latest Techniques](https://towardsdatascience.com/how-to-efficiently-fine-tune-your-own-open-source-llm-using-novel-techniques-code-provided-03a4e67d1b48)
 
 [an overview of all (or at least most) of the LORA techniques that are out there…](https://x.com/cwolferesearch/status/1736795049579491751?s=20)
+
+[A simple guide to local LLM fine-tuning on a Mac with MLX](https://apeatling.com/articles/simple-guide-to-local-llm-fine-tuning-on-a-mac-with-mlx/)
 
 ## OSS LLMs
 
@@ -215,6 +224,8 @@ Huggingface [Welcome Mixtral - a SOTA Mixture of Experts on Hugging Face](https:
 
 Nature [Why Japan is building its own version of ChatGPT](https://www.nature.com/articles/d41586-023-02868-z)
 [The Rakuda Ranking of Japanese AI](https://yuzuai.jp/benchmark)
+
+[Japan Declares AI Training Data Fair Game and ‘Will Not Enforce Copyright’](https://petapixel.com/2023/06/05/japan-declares-ai-training-data-fair-game-and-will-not-enforce-copyright/)
 
 ## Japan misc
 
