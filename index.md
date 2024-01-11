@@ -122,6 +122,11 @@ Huggingface [Zephyr 7B Beta Chat](https://huggingface.co/spaces/HuggingFaceH4/ze
 
 ## Learning / Training platforms
 
+### By-the-hour prices
+
+[Community Cloud](https://www.runpod.io/console/gpu-cloud)
+[Vast.ai](https://vast.ai/pricing)
+
 ## Prompt engineering
 
 [Anthropic Research Tells that You can Increase LLMs Recall Capacity by 70% with a Single Addition to Your Prompt: Unleashing the Power of Claude 2.1 through Strategic Prompting](https://www.marktechpost.com/2023/12/09/recent-anthropic-research-tells-that-you-can-increase-llms-recall-capacity-by-70-with-a-single-addition-to-your-prompt-unleashing-the-power-of-claude-2-1-through-strategic-prompting/)
