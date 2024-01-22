@@ -31,6 +31,8 @@ TDS [Evaluating RAG Applications with RAGAs](https://towardsdatascience.com/eval
 
 ColBERT author [A🧵on late interaction, how it works efficiently, and why/where it's been shown to improve quality](https://x.com/lateinteraction/status/1736804963760976092?s=20)
 
+[Vinaja RAG walkthrough](https://vinija.ai/nlp/RAG/)
+
 # Python Notebooks resources
 
 [Jupyter Notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks)
@@ -67,27 +69,27 @@ What is the limit of simplifying the Transformer architecture to it's fundamenta
 
 ## News & Market Analysis
 
-NYT [Mistral, French A.I. Start-Up, Is Valued at $2 Billion in Funding Round](https://www.nytimes.com/2023/12/10/technology/mistral-ai-funding.html)
-
-TC [System of intelligence — generative AI at the app layer](https://techcrunch.com/2023/12/09/system-of-intelligence-generative-ai-at-the-app-layer/)
-
-CNBC [There are three job paths in AI era, and one ensures failure, says Alphabet board member](https://www.cnbc.com/2023/12/10/there-are-3-job-paths-in-ai-era-one-means-failure-alphabet-director.html)
-
+NYT [Mistral, French A.I. Start-Up, Is Valued at $2 Billion in Funding Round](https://www.nytimes.com/2023/12/10/technology/mistral-ai-funding.html)  
+TC [System of intelligence — generative AI at the app layer](https://techcrunch.com/2023/12/09/system-of-intelligence-generative-ai-at-the-app-layer/)  
+CNBC [There are three job paths in AI era, and one ensures failure, says Alphabet board member](https://www.cnbc.com/2023/12/10/there-are-3-job-paths-in-ai-era-one-means-failure-alphabet-director.html)  
 [Meta....gave up on GPU and CPU to take a RISC-y route for AI training and inference acceleration
 News
-](https://www.techradar.com/pro/meta-has-done-something-that-will-get-nvidia-and-amd-very-very-worried-it-gave-up-on-gpu-and-cpu-to-take-a-risc-y-route-for-ai-training-and-inference-acceleration)
-
-TC [When it comes to generative AI in the enterprise, CIOs are taking it slow](https://techcrunch.com/2023/12/15/when-it-comes-to-generative-ai-in-the-enterprise-cios-are-taking-it-slow/)
-
-The Atlantic [THE RISE AND FALL OF THE ‘IBM WAY’](https://www.theatlantic.com/magazine/archive/2024/01/ibm-greatest-capitalist-tom-watson/676147/)
-
-on Glean [Startup Founded by Ex-Google Search Team Nears $2 Billion Valuation](https://www.reddit.com/r/singularity/comments/18jv4ue/startup_founded_by_exgoogle_search_team_nears_2/)
-
-BCG blog [Turning GenAI Magic into Business Impact](https://www.bcg.com/publications/2023/maximizing-the-potential-of-generative-ai)
+](https://www.techradar.com/pro/meta-has-done-something-that-will-get-nvidia-and-amd-very-very-worried-it-gave-up-on-gpu-and-cpu-to-take-a-risc-y-route-for-ai-training-and-inference-acceleration)  
+TC [When it comes to generative AI in the enterprise, CIOs are taking it slow](https://techcrunch.com/2023/12/15/when-it-comes-to-generative-ai-in-the-enterprise-cios-are-taking-it-slow/)  
+The Atlantic [THE RISE AND FALL OF THE ‘IBM WAY’](https://www.theatlantic.com/magazine/archive/2024/01/ibm-greatest-capitalist-tom-watson/676147/)  
+on Glean [Startup Founded by Ex-Google Search Team Nears $2 Billion Valuation](https://www.reddit.com/r/singularity/comments/18jv4ue/startup_founded_by_exgoogle_search_team_nears_2/)  
+BCG blog [Turning GenAI Magic into Business Impact](https://www.bcg.com/publications/2023/maximizing-the-potential-of-generative-ai)  
 
 ## Alternative approaches
 
 Apple Research [DeepPCR: Parallelizing Sequential Operations in Neural Networks](https://machinelearning.apple.com/research/deeppcr)
+
+## Books & Online Books
+
+[Simon J.D. Prince 'Understanding Deep Learning'](https://udlbook.github.io/udlbook/)  
+[François Fleuret 'The Little Book of Deep Learning'](https://fleuret.org/public/lbdl.pdf)  
+[Software Engineering at Google](https://abseil.io/resources/swe-book/html/toc.html)  
+[Goodfellow, Bengio, Courville 'Deep Learning'](https://www.deeplearningbook.org/)  
 
 ## Companies, Startups
 
@@ -102,6 +104,8 @@ Vector database
 
 [the holy grail of web scraping: a universal web scraper, built with GPT-4 + Vision + Headless Chrome](https://twitter.com/itstimconnors/status/1736821319080226817) & [Building a Universal AI Scraper](https://timconnors.co/posts/ai-scraper)
 
+[Beautiful Soup Tutorial](https://realpython.com/beautiful-soup-web-scraper-python/)
+
 ## LLM Web Interfaces & Apps
 
 [Bard](http://bard.google.com)  
@@ -111,6 +115,7 @@ Anthropic [Claude.ai](https://claude.ai/)
 Huggingface [Zephyr 7B Beta Chat](https://huggingface.co/spaces/HuggingFaceH4/zephyr-chat)  
 [LlamaIndex + Gemini](https://blog.llamaindex.ai/llamaindex-gemini-8d7c3b9ea97e)   
 [TensorOps LLMstudio](https://github.com/TensorOpsAI/LLMstudio)
+[WebLLM](https://webllm.mlc.ai/) Mac/MLC-based 'LLMs in Browser' w/ access to GPU from browser
 
 ## ML Ops and hosted Platforms
 
