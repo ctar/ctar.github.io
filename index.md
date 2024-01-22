@@ -144,13 +144,11 @@ Huggingface [Zephyr 7B Beta Chat](https://huggingface.co/spaces/HuggingFaceH4/ze
 
 ## Fine tuning
 
-TDS [Fine-Tune Your Own Open-Source LLM Using the Latest Techniques](https://towardsdatascience.com/how-to-efficiently-fine-tune-your-own-open-source-llm-using-novel-techniques-code-provided-03a4e67d1b48)
-
-[an overview of all (or at least most) of the LORA techniques that are out there…](https://x.com/cwolferesearch/status/1736795049579491751?s=20)
-
-[A simple guide to local LLM fine-tuning on a Mac with MLX](https://apeatling.com/articles/simple-guide-to-local-llm-fine-tuning-on-a-mac-with-mlx/)
-
+TDS [Fine-Tune Your Own Open-Source LLM Using the Latest Techniques](https://towardsdatascience.com/how-to-efficiently-fine-tune-your-own-open-source-llm-using-novel-techniques-code-provided-03a4e67d1b48)  
+[an overview of all (or at least most) of the LORA techniques that are out there…](https://x.com/cwolferesearch/status/1736795049579491751?s=20)  
+[A simple guide to local LLM fine-tuning on a Mac with MLX](https://apeatling.com/articles/simple-guide-to-local-llm-fine-tuning-on-a-mac-with-mlx/)  
 [Fine-Tuning with LoRA or QLoRA on Mac w/ Llama/Mistral](https://github.com/ml-explore/mlx-examples/tree/main/lora) : [thread](https://x.com/reach_vb/status/1745016974311121028?s=20)
+[QLora Unsloth](https://huggingface.co/blog/Andyrasika/finetune-unsloth-qlora)
 
 ## OSS LLMs
 
