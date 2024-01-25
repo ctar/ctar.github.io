@@ -15,6 +15,8 @@ TDS [Develop Your First AI Agent: Deep Q-Learning](https://towardsdatascience.co
 
 Github: Meta project [Pearl - A Production-ready Reinforcement Learning AI Agent Library](https://github.com/facebookresearch/Pearl)
 
+[DSPy](https://github.com/stanfordnlp/dspy) and [recent paper IReRa](https://arxiv.org/pdf/2401.12178.pdf) on 10,000 classification task
+
 # RAG, Retrieval, Embeddings, VectorDBs
 
 Cohere [How to Build a RAG-Powered Chatbot with Chat, Embed, and Rerank](https://txt.cohere.com/rag-chatbot/)
@@ -32,6 +34,8 @@ TDS [Evaluating RAG Applications with RAGAs](https://towardsdatascience.com/eval
 ColBERT author [A🧵on late interaction, how it works efficiently, and why/where it's been shown to improve quality](https://x.com/lateinteraction/status/1736804963760976092?s=20)
 
 [Vinaja RAG walkthrough](https://vinija.ai/nlp/RAG/)
+
+[Qdrant](https://github.com/qdrant/qdrant)
 
 # Python Notebooks resources
 
