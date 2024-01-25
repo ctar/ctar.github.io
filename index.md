@@ -215,12 +215,12 @@ Huggingface [Welcome Mixtral - a SOTA Mixture of Experts on Hugging Face](https:
 
 ## Anomaly Detection
 
-[PyOD, a versatile Python library for detecting anomalies in multivariate data](https://pyod.readthedocs.io/en/latest/)
-[TODS: Automated Time-series Outlier Detection System](https://github.com/datamllab/tods)
-[Python library for graph outlier detection](https://github.com/pygod-team/pygod/)
-[ADBench: Anomaly Detection Benchmark](https://www.andrew.cmu.edu/user/yuezhao2/papers/22-neurips-adbench.pdf)
-[LogBERT: Log Anomaly Detection via BERT](https://arxiv.org/abs/2103.04475)
-[Log Analytics Powered by AI](LOGPAI), [LOGPAI.com](https://logpai.com/)
+[PyOD, a versatile Python library for detecting anomalies in multivariate data](https://pyod.readthedocs.io/en/latest/)  
+[TODS: Automated Time-series Outlier Detection System](https://github.com/datamllab/tods)  
+[Python library for graph outlier detection](https://github.com/pygod-team/pygod/)  
+[ADBench: Anomaly Detection Benchmark](https://www.andrew.cmu.edu/user/yuezhao2/papers/22-neurips-adbench.pdf)  
+[LogBERT: Log Anomaly Detection via BERT](https://arxiv.org/abs/2103.04475)  
+[Log Analytics Powered by AI](LOGPAI), [LOGPAI.com](https://logpai.com/)  
 
 ## Data tools
 
