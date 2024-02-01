@@ -256,6 +256,7 @@ Nature [Why Japan is building its own version of ChatGPT](https://www.nature.com
 ## Githubpages resources
 
 [Markdown and GithubPages Resources](./markdown_and_pages_resources.html).
+[Quarto](https://quarto.org/docs/publishing/github-pages.html) alternative to Jekyll?
 
 [Troubleshooting Jekyll 
 theme issues](https://stackoverflow.com/questions/42966262/change-theme-of-my-github-pages-and-pages-are-empty)
