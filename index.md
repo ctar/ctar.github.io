@@ -37,6 +37,8 @@ ColBERT author [A🧵on late interaction, how it works efficiently, and why/wher
 
 [Qdrant](https://github.com/qdrant/qdrant)
 
+[Milvus](https://thenewstack.io/top-5-vector-database-solutions-for-your-ai-project/) and 4 vector dbs
+
 # Python Notebooks resources
 
 [Jupyter Notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks)
