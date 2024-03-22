@@ -15,29 +15,32 @@ TDS [Develop Your First AI Agent: Deep Q-Learning](https://towardsdatascience.co
 
 Github: Meta project [Pearl - A Production-ready Reinforcement Learning AI Agent Library](https://github.com/facebookresearch/Pearl)
 
-[DSPy](https://github.com/stanfordnlp/dspy) and [recent paper IReRa](https://arxiv.org/pdf/2401.12178.pdf) on 10,000 classification task
+# Constrained Generation
+
+[Outlines: Structured Generation](https://github.com/outlines-dev/outlines)   
+[\{Guidance\}](https://github.com/guidance-ai/guidance) (Constrained generation)   
+
+# Optimization
+
+[DSPy](https://github.com/stanfordnlp/dspy) and [recent paper IReRa](https://arxiv.org/pdf/2401.12178.pdf) on 10,000 classification task   
+[Sakana Evolutionary Model/Merge](https://github.com/SakanaAI/evolutionary-model-merge)
+[VLLM](https://github.com/vllm-project/vllm) "Easy, fast, and cheap LLM serving for everyone"   
+
 
 # RAG, Retrieval, Embeddings, VectorDBs
 
-Cohere [How to Build a RAG-Powered Chatbot with Chat, Embed, and Rerank](https://txt.cohere.com/rag-chatbot/)
-
-[LLMWare](https://github.com/llmware-ai/llmware) Github
-
-YT [Vector Search RAG Tutorial – Combine Your Data with LLMs with Advanced Search](https://www.youtube.com/watch?v=JEBDfGqrAUA)
-
-[Gemini Semantic Retrieval](https://ai.google.dev/docs/semantic_retriever)
-
-[Gemini Document Search](https://ai.google.dev/examples/doc_search_emb#api_changes_to_embeddings_with_model_embedding-001)
-
-TDS [Evaluating RAG Applications with RAGAs](https://towardsdatascience.com/evaluating-rag-applications-with-ragas-81d67b0ee31a)
-
-ColBERT author [A🧵on late interaction, how it works efficiently, and why/where it's been shown to improve quality](https://x.com/lateinteraction/status/1736804963760976092?s=20)
-
-[Vinaja RAG walkthrough](https://vinija.ai/nlp/RAG/)
-
-[Qdrant](https://github.com/qdrant/qdrant)
-
-[Milvus](https://thenewstack.io/top-5-vector-database-solutions-for-your-ai-project/) and 4 vector dbs
+Cohere [How to Build a RAG-Powered Chatbot with Chat, Embed, and Rerank](https://txt.cohere.com/rag-chatbot/)   
+[LLMWare](https://github.com/llmware-ai/llmware) Github   
+YT [Vector Search RAG Tutorial – Combine Your Data with LLMs with Advanced Search](https://www.youtube.com/watch?v=JEBDfGqrAUA)   
+[Gemini Semantic Retrieval](https://ai.google.dev/docs/semantic_retriever)   
+[Gemini Document Search](https://ai.google.dev/examples/doc_search_emb#api_changes_to_embeddings_with_model_embedding-001)   
+TDS [Evaluating RAG Applications with RAGAs](https://towardsdatascience.com/evaluating-rag-applications-with-ragas-81d67b0ee31a)   
+ColBERT author [A🧵on late interaction, how it works efficiently, and why/where it's been shown to improve quality](https://x.com/lateinteraction/status/1736804963760976092?s=20)   
+[Vinaja RAG walkthrough](https://vinija.ai/nlp/RAG/)   
+[Qdrant](https://github.com/qdrant/qdrant)   
+[Milvus](https://thenewstack.io/top-5-vector-database-solutions-for-your-ai-project/) and 4 vector dbs   
+[Multitenant Llamaindex](https://qdrant.tech/documentation/tutorials/llama-index-multitenancy/)   
+[LangFuse](https://www.llamaindex.ai/blog/one-click-open-source-rag-observability-with-langfuse) RAG observability
 
 # Python Notebooks resources
 
@@ -215,6 +218,8 @@ Huggingface [Welcome Mixtral - a SOTA Mixture of Experts on Hugging Face](https:
 
 [16, 8, and 4-bit Floating Point Formats — How Does it Work?](https://towardsdatascience.com/16-8-and-4-bit-floating-point-formats-how-does-it-work-d157a31ef2ef)
 
+[Building a Biomedical Entity Linker](https://towardsdatascience.com/building-a-biomedical-entity-linker-with-llms-d385cb85c15a)
+
 ## Anomaly Detection
 
 [PyOD, a versatile Python library for detecting anomalies in multivariate data](https://pyod.readthedocs.io/en/latest/)  
@@ -231,6 +236,7 @@ Huggingface [Welcome Mixtral - a SOTA Mixture of Experts on Hugging Face](https:
 ## ML / DS Explainers
 
 [F1, Recall, Precision, and ROC Curves](https://towardsdatascience.com/courage-to-learn-ml-a-deeper-dive-into-f1-recall-precision-and-roc-curves-d5c0a46e5eb7)
+[Aman Chadha AI primers](https://aman.ai/primers/ai/)
 
 ## Startups
 
