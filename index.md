@@ -7,13 +7,10 @@ It's much easier to find my bookmarks if they're simply online...
 # RL & RLHF
 
 [Awesome RLHF](https://github.com/opendilab/awesome-RLHF)  
-RLHF library with great list of resources and diagrams
-
-TDS [Develop Your First AI Agent: Deep Q-Learning](https://towardsdatascience.com/develop-your-first-ai-agent-deep-q-learning-375876ee2472)
-
-[Convenient Reinforcement Learning With Stable-Baselines3](https://towardsdatascience.com/convenient-reinforcement-learning-with-stable-baselines3-dccf466b7585)
-
-Github: Meta project [Pearl - A Production-ready Reinforcement Learning AI Agent Library](https://github.com/facebookresearch/Pearl)
+RLHF library with great list of resources and diagrams   
+TDS [Develop Your First AI Agent: Deep Q-Learning](https://towardsdatascience.com/develop-your-first-ai-agent-deep-q-learning-375876ee2472)   
+[Convenient Reinforcement Learning With Stable-Baselines3](https://towardsdatascience.com/convenient-reinforcement-learning-with-stable-baselines3-dccf466b7585)   
+Github: Meta project [Pearl - A Production-ready Reinforcement Learning AI Agent Library](https://github.com/facebookresearch/Pearl)   
 
 # Constrained Generation
 
@@ -47,8 +44,7 @@ ColBERT author [A🧵on late interaction, how it works efficiently, and why/wher
 [Jupyter Notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks)
 for the book ['Deep Learning with 
 Python'](https://www.amazon.com/Learning-Python-Second-Fran%C3%A7ois-Chollet/dp/1617296864/)  
-[Jupyter AI](https://github.com/jupyterlab/jupyter-ai)  
-How use generative coding models directly in Jupyter notebooks  
+[Jupyter AI](https://github.com/jupyterlab/jupyter-ai)  How use generative coding models directly in Jupyter notebooks   
 [Jupyter AI talk](https://www.youtube.com/watch?v=nDoojNaRhPE) at AWS re:Invent
 
 ## Jupyter & Colab Notebooks
@@ -58,9 +54,8 @@ How use generative coding models directly in Jupyter notebooks
 ## Howtos and explainer (blogs and videos)
 
 [Perplexity of Language Models](https://medium.com/@priyankads/perplexity-of-language-models-41160427ed72)  
-Good explainer of Perplexity, Entropy & Cross-entropy
-
-[Andrej Karpathy LLM Paper Reading List for LLM Mastery](https://pub.towardsai.net/andrej-karpathy-llm-paper-reading-list-for-llm-mastery-89e751ad0cc1)
+Good explainer of Perplexity, Entropy & Cross-entropy   
+[Andrej Karpathy LLM Paper Reading List for LLM Mastery](https://pub.towardsai.net/andrej-karpathy-llm-paper-reading-list-for-llm-mastery-89e751ad0cc1)   
 
 ## LLM Training
 
@@ -102,18 +97,14 @@ Apple Research [DeepPCR: Parallelizing Sequential Operations in Neural Networks]
 
 ## Companies, Startups
 
-[Pinecone.io](http://www.pinecone.io)  
-Vector database
+[Pinecone.io](http://www.pinecone.io)  Vector database   
 
 ## AI Website Builders, scrapers
 
-[Starter Templates 3.5.2 : All new AI based Template Kit library](https://wpastra.com/changelog/version-3-5-2/)
-
-[AI Revolution for website creation. Simply describe your idea, and watch as a WordPress website is built before your eyes.](https://zipwp.com/)
-
-[the holy grail of web scraping: a universal web scraper, built with GPT-4 + Vision + Headless Chrome](https://twitter.com/itstimconnors/status/1736821319080226817) & [Building a Universal AI Scraper](https://timconnors.co/posts/ai-scraper)
-
-[Beautiful Soup Tutorial](https://realpython.com/beautiful-soup-web-scraper-python/)
+[Starter Templates 3.5.2 : All new AI based Template Kit library](https://wpastra.com/changelog/version-3-5-2/)   
+[AI Revolution for website creation. Simply describe your idea, and watch as a WordPress website is built before your eyes.](https://zipwp.com/)   
+[the holy grail of web scraping: a universal web scraper, built with GPT-4 + Vision + Headless Chrome](https://twitter.com/itstimconnors/status/1736821319080226817) & [Building a Universal AI Scraper](https://timconnors.co/posts/ai-scraper)   
+[Beautiful Soup Tutorial](https://realpython.com/beautiful-soup-web-scraper-python/)   
 
 ## LLM Web Interfaces & Apps
 
@@ -128,11 +119,9 @@ Huggingface [Zephyr 7B Beta Chat](https://huggingface.co/spaces/HuggingFaceH4/ze
 
 ## ML Ops and hosted Platforms
 
-[Deploying LLM Apps to AWS, the Open-Source Self-Service Way](https://towardsdatascience.com/deploying-llm-apps-to-aws-the-open-source-self-service-way-c54b8667d829)
-
-[Model Memory Calculator](https://huggingface.co/spaces/hf-accelerate/model-memory-usage)
-
-[🧐 LLM AutoEval in Colab](https://github.com/mlabonne/llm-autoeval?tab=readme-ov-file) : [results](https://huggingface.co/spaces/mlabonne/Yet_Another_LLM_Leaderboard)
+[Deploying LLM Apps to AWS, the Open-Source Self-Service Way](https://towardsdatascience.com/deploying-llm-apps-to-aws-the-open-source-self-service-way-c54b8667d829)   
+[Model Memory Calculator](https://huggingface.co/spaces/hf-accelerate/model-memory-usage)   
+[🧐 LLM AutoEval in Colab](https://github.com/mlabonne/llm-autoeval?tab=readme-ov-file) : [results]     (https://huggingface.co/spaces/mlabonne/Yet_Another_LLM_Leaderboard)   
 
 ## Learning / Training platforms
 
@@ -143,13 +132,10 @@ Huggingface [Zephyr 7B Beta Chat](https://huggingface.co/spaces/HuggingFaceH4/ze
 
 ## Prompt engineering
 
-[Anthropic Research Tells that You can Increase LLMs Recall Capacity by 70% with a Single Addition to Your Prompt: Unleashing the Power of Claude 2.1 through Strategic Prompting](https://www.marktechpost.com/2023/12/09/recent-anthropic-research-tells-that-you-can-increase-llms-recall-capacity-by-70-with-a-single-addition-to-your-prompt-unleashing-the-power-of-claude-2-1-through-strategic-prompting/)
-
-[Mastering Prompt Management](https://dev.to/tanyarai/mastering-prompt-management-fbn)
-
-[How to Improve Your ChatGPT Outputs Using Configuration Parameters](https://towardsdatascience.com/how-to-improve-your-chatgpt-outputs-using-configuration-parameters-0eebd575646e)
-
-[OpenAI official Prompt engineering guide](https://platform.openai.com/docs/guides/prompt-engineering)
+[Anthropic Research Tells that You can Increase LLMs Recall Capacity by 70% with a Single Addition to Your Prompt: Unleashing the Power of Claude 2.1 through Strategic Prompting](https://www.marktechpost.com/2023/12/09/recent-anthropic-research-tells-that-you-can-increase-llms-recall-capacity-by-70-with-a-single-addition-to-your-prompt-unleashing-the-power-of-claude-2-1-through-strategic-prompting/)   
+[Mastering Prompt Management](https://dev.to/tanyarai/mastering-prompt-management-fbn)   
+[How to Improve Your ChatGPT Outputs Using Configuration Parameters](https://towardsdatascience.com/how-to-improve-your-chatgpt-outputs-using-configuration-parameters-0eebd575646e)   
+[OpenAI official Prompt engineering guide](https://platform.openai.com/docs/guides/prompt-engineering)   
 
 ## Fine tuning
 
@@ -161,33 +147,25 @@ TDS [Fine-Tune Your Own Open-Source LLM Using the Latest Techniques](https://tow
 
 ## OSS LLMs
 
-HF Papers [LLM360: Towards Fully Transparent Open-Source LLMs](https://huggingface.co/papers/2312.06550)
-
-[The List of 11 Most Popular Open Source LLMs of 2023](https://www.lakera.ai/blog/open-source-llms)
+HF Papers [LLM360: Towards Fully Transparent Open-Source LLMs](https://huggingface.co/papers/2312.06550)   
+[The List of 11 Most Popular Open Source LLMs of 2023](https://www.lakera.ai/blog/open-source-llms)   
 
 ## Local LLMs
 
 [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/)
-[MLX vs MPS vs CUDA: a Benchmark](https://towardsdatascience.com/mlx-vs-mps-vs-cuda-a-benchmark-c5737ca6efc9)
-
-justine.lol [Bash One-Liners for LLMs](https://justine.lol/oneliners/)
-
+[MLX vs MPS vs CUDA: a Benchmark](https://towardsdatascience.com/mlx-vs-mps-vs-cuda-a-benchmark-c5737ca6efc9)   
+justine.lol [Bash One-Liners for LLMs](https://justine.lol/oneliners/)   
 [LM Studio](https://lmstudio.ai/) local LLMs GUI   
-
-[OLlama](https://github.com/jmorganca/ollama)
+[OLlama](https://github.com/jmorganca/ollama)   
 
 ## Applied
 
-[Five Stages Of LLM Implementation](https://cobusgreyling.medium.com/five-stages-of-llm-implementation-a3c1ed861830)
-
-[WordPress Starter Templates AI – Build A Site In 60 Seconds](https://www.searchenginejournal.com/wordpress-starter-templates-ai-build-a-site-in-60-seconds/503624/)  
-Astra Starter Templates 3.5.2 integrates ZipWP AI Website Builder that claims to be able to create an entire site in 60 seconds
-
-[LLMs for Everyone: Running LangChain and a MistralAI 7B Model in Google Colab](https://towardsdatascience.com/llms-for-everyone-running-langchain-and-a-mistralai-7b-model-in-google-colab-246ca94d7c4d)
-
-Intel paid piece in VB [A developer’s guide to getting started with generative AI: A use case-specific approach](https://venturebeat.com/ai/a-developerss-guide-to-getting-started-with-generative-ai-a-use-case-specific-approach/)
-
-Nature [A rule-free workflow for the automated generation of databases from scientific literature](https://www.nature.com/articles/s41524-023-01171-9)
+[Five Stages Of LLM Implementation](https://cobusgreyling.medium.com/five-stages-of-llm-implementation-a3c1ed861830)   
+[WordPress Starter Templates AI – Build A Site In 60 Seconds](https://www.searchenginejournal.com/wordpress-starter-templates-ai-build-a-site-in-60-seconds/503624/)     
+Astra Starter Templates 3.5.2 integrates ZipWP AI Website Builder that claims to be able to create an entire site in 60 seconds   
+[LLMs for Everyone: Running LangChain and a MistralAI 7B Model in Google Colab](https://towardsdatascience.com/llms-for-everyone-running-langchain-and-a-mistralai-7b-model-in-google-colab-246ca94d7c4d)   
+Intel paid piece in VB [A developer’s guide to getting started with generative AI: A use case-specific approach](https://venturebeat.com/ai/a-developerss-guide-to-getting-started-with-generative-ai-a-use-case-specific-approach/)   
+Nature [A rule-free workflow for the automated generation of databases from scientific literature](https://www.nature.com/articles/s41524-023-01171-9)   
 
 ## Analytics tools & examples
 
@@ -196,29 +174,19 @@ Nature [A rule-free workflow for the automated generation of databases from scie
 ## Misc
 
 [David Ha Blog Post](https://blog.otoro.net/2022/10/01/collectiveintelligence/) on 'Collective Intelligence for Deep 
-Learning'
-
+Learning'   
 [Artificial General Intelligence Is Already Here](https://www.noemamag.com/artificial-general-intelligence-is-already-here/)  
-Blaise AGÜera y Arcas & Peter Norvig article
-
-[Prompt Engineering for Arithmetic Reasoning Problems](https://towardsdatascience.com/prompt-engineering-for-arithmetic-reasoning-problems-28c8bcd5bf0e)
-
-Huggingface [Mixture of Experts Explained](https://huggingface.co/blog/moe)
-
-[AI can predict intimate partner femicide from variables extracted from legal documents](https://www.psypost.org/2023/12/ai-can-predict-intimate-partner-femicide-from-variables-extracted-from-legal-documents-214914)
-
-Huggingface [Welcome Mixtral - a SOTA Mixture of Experts on Hugging Face](https://huggingface.co/blog/mixtral)
-
-[Mixtral-8x7B: Understanding and Running the Sparse Mixture of Experts](https://towardsdatascience.com/mixtral-8x7b-understanding-and-running-the-sparse-mixture-of-experts-0e3fc7fde818)
-
-[A Comprehensive Survey of Large Language Models (LLMs)](https://cobusgreyling.medium.com/a-comprehensive-survey-of-large-language-models-llms-946a30d9288e)
-
+Blaise AGÜera y Arcas & Peter Norvig article   
+[Prompt Engineering for Arithmetic Reasoning Problems](https://towardsdatascience.com/prompt-engineering-for-arithmetic-reasoning-problems-28c8bcd5bf0e)   
+Huggingface [Mixture of Experts Explained](https://huggingface.co/blog/moe)   
+[AI can predict intimate partner femicide from variables extracted from legal documents](https://www.psypost.org/2023/12/ai-can-predict-intimate-partner-femicide-from-variables-extracted-from-legal-documents-214914)   
+Huggingface [Welcome Mixtral - a SOTA Mixture of Experts on Hugging Face](https://huggingface.co/blog/mixtral)   
+[Mixtral-8x7B: Understanding and Running the Sparse Mixture of Experts](https://towardsdatascience.com/mixtral-8x7b-understanding-and-running-the-sparse-mixture-of-experts-0e3fc7fde818)   
+[A Comprehensive Survey of Large Language Models (LLMs)](https://cobusgreyling.medium.com/a-comprehensive-survey-of-large-language-models-llms-946a30d9288e)   
 [The Kanerva Machine: A Generative Distributed Memory
-](https://arxiv.org/abs/1804.01756)
-
-[16, 8, and 4-bit Floating Point Formats — How Does it Work?](https://towardsdatascience.com/16-8-and-4-bit-floating-point-formats-how-does-it-work-d157a31ef2ef)
-
-[Building a Biomedical Entity Linker](https://towardsdatascience.com/building-a-biomedical-entity-linker-with-llms-d385cb85c15a)
+](https://arxiv.org/abs/1804.01756)   
+[16, 8, and 4-bit Floating Point Formats — How Does it Work?](https://towardsdatascience.com/16-8-and-4-bit-floating-point-formats-how-does-it-work-d157a31ef2ef)   
+[Building a Biomedical Entity Linker](https://towardsdatascience.com/building-a-biomedical-entity-linker-with-llms-d385cb85c15a)   
 
 ## Anomaly Detection
 
