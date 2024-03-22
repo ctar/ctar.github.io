@@ -175,8 +175,7 @@ Nature [A rule-free workflow for the automated generation of databases from scie
 
 [David Ha Blog Post](https://blog.otoro.net/2022/10/01/collectiveintelligence/) on 'Collective Intelligence for Deep 
 Learning'   
-[Artificial General Intelligence Is Already Here](https://www.noemamag.com/artificial-general-intelligence-is-already-here/)  
-Blaise AGÜera y Arcas & Peter Norvig article   
+[Artificial General Intelligence Is Already Here](https://www.noemamag.com/artificial-general-intelligence-is-already-here/)  Blaise AGÜera y Arcas & Peter Norvig article   
 [Prompt Engineering for Arithmetic Reasoning Problems](https://towardsdatascience.com/prompt-engineering-for-arithmetic-reasoning-problems-28c8bcd5bf0e)   
 Huggingface [Mixture of Experts Explained](https://huggingface.co/blog/moe)   
 [AI can predict intimate partner femicide from variables extracted from legal documents](https://www.psypost.org/2023/12/ai-can-predict-intimate-partner-femicide-from-variables-extracted-from-legal-documents-214914)   
