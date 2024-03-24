@@ -169,7 +169,7 @@ Nature [A rule-free workflow for the automated generation of databases from scie
 
 ## OCR
 
-(OCR Toolkit)[https://github.com/ajkdrag/ocrtoolkit?tab=readme-ov-file]
+[OCR Toolkit](https://github.com/ajkdrag/ocrtoolkit?tab=readme-ov-file)
 
 ## Analytics tools & examples
 
