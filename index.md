@@ -167,6 +167,10 @@ Astra Starter Templates 3.5.2 integrates ZipWP AI Website Builder that claims to
 Intel paid piece in VB [A developer’s guide to getting started with generative AI: A use case-specific approach](https://venturebeat.com/ai/a-developerss-guide-to-getting-started-with-generative-ai-a-use-case-specific-approach/)   
 Nature [A rule-free workflow for the automated generation of databases from scientific literature](https://www.nature.com/articles/s41524-023-01171-9)   
 
+## OCR
+
+[https://github.com/ajkdrag/ocrtoolkit?tab=readme-ov-file](OCR Toolkit)
+
 ## Analytics tools & examples
 
 [ChatGPT Data Analysis](https://chat.openai.com/g/g-HMNcP6w7d-data-analysis)
