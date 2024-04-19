@@ -199,6 +199,7 @@ Huggingface [Welcome Mixtral - a SOTA Mixture of Experts on Hugging Face](https:
 [ADBench: Anomaly Detection Benchmark](https://www.andrew.cmu.edu/user/yuezhao2/papers/22-neurips-adbench.pdf)  
 [LogBERT: Log Anomaly Detection via BERT](https://arxiv.org/abs/2103.04475)  
 [Log Analytics Powered by AI](LOGPAI), [LOGPAI.com](https://logpai.com/)  
+[Amazon Chronos](https://github.com/amazon-science/chronos-forecasting)
 
 ## Data tools
 
