@@ -16,6 +16,7 @@ Github: Meta project [Pearl - A Production-ready Reinforcement Learning AI Agent
 
 [Outlines: Structured Generation](https://github.com/outlines-dev/outlines)   
 [\{Guidance\}](https://github.com/guidance-ai/guidance) (Constrained generation)   
+[Schemas](https://llm.datasette.io/en/stable/schemas.html)
 
 # Optimization
 
